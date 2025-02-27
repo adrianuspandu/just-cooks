@@ -1,7 +1,7 @@
 function Footer () {
     return (
         <footer>
-            <span><a className="footer-link" href="#" target="_blank">Made by Pandu</a>🚀</span>
+            <span><a className="footer-link" href="https://github.com/adrianuspandu/just-cooks" target="_blank">Made by Pandu</a>🚀</span>
         </footer>
     )
 }
